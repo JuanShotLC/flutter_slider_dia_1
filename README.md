@@ -1,6 +1,7 @@
 ## Introducción a la aplicación Flutter con diseño y animación de la interfaz de usuario de la aplicación de indicadores
 
-Una parte de #flutter50diasdecodigo. Vamos a crear una interfaz de usuario de aplicación de introducción de aplicación hermosa y animada con Flutter.
+Día 1 de #flutter50diasdecodigo. 
+Vamos a crear una interfaz de usuario de aplicación de introducción de aplicación hermosa y animada con Flutter.
 
 
 ## Configuración de desarrollo
@@ -12,10 +13,7 @@ flutter run
 
 ## ScreenShot
 
-<img src="assets/flutter_slide_1.jpg" height="500em"/>
-&nbsp;<img src="assets/flutter_slide_1.jpg" height="500em" />
-&nbsp;<img src="assets/flutter_slide_1.jpg" height="500em" />
-&nbsp;<img src="assets/slider.gif" height="500em" />
+<img src="assets/flutter_slide_1.jpg" height="500em"/>&nbsp;<img src="assets/flutter_slide_2.jpg" height="500em" />&nbsp;<img src="assets/flutter_slide_3.jpg" height="500em" />&nbsp;<img src="assets/slider.gif" height="500em" />
 
 ## 📝Connect with me:
 <a href="https://www.linkedin.com/in/juanshotlc/">
