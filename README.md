@@ -12,9 +12,9 @@ flutter run
 
 ## ScreenShot
 
-<img src="assets/flutter_slide_1.png" height="500em"/>
-&nbsp;<img src="assets/flutter_slide_1.png" height="500em" />
-&nbsp;<img src="assets/flutter_slide_1.png" height="500em" />
+<img src="assets/flutter_slide_1.jpg" height="500em"/>
+&nbsp;<img src="assets/flutter_slide_1.jpg" height="500em" />
+&nbsp;<img src="assets/flutter_slide_1.jpg" height="500em" />
 &nbsp;<img src="assets/slider.gif" height="500em" />
 
 ## 📝Connect with me:
