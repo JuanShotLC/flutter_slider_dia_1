@@ -19,7 +19,6 @@ flutter run
 <a href="https://www.linkedin.com/in/juanshotlc/">
  <img src="https://img.shields.io/badge/linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<p> <img src="https://komarev.com/ghpvc/?username=JuanShotLC&label=Profile%20views&color=0e75b6&style=flat" alt="JuanShotLC" /> </p>
  
 <a href="https://instagram.com/JuanShotLC">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
